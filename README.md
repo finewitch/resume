@@ -5,4 +5,4 @@
 
 <h2>#2 thenest.pl </h2> - service for creative work club and central meeting place. Big and complex social media platform for community members, including rooms and assets reservations with calendar, user profiles and many more [React, redux, saga]
 
-<h2>#3 textil-one.de</h2> - customised solution for wholesaling textiles shop. Many advanced solutions including filtering, swipers and more -  beyond the possibilities of shopify. [shopify, custom js solutions, jquery]
+<h2>#3 textil-one.de</h2> - customised solution for wholesaling textiles shop. Many advanced solutions including filtering, swipers and more -  beyond the possibilities of shopify. [shopify, custom js solutions, jquery, php]
